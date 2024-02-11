@@ -1,3 +1,6 @@
+//TWO SUM
+
+
 INTUTION:
 The main goal of this code is to find a pair of indices in the given array (nums) such that the corresponding elements at those indices add up to the specified target value,
 If such a pair is found, the function returns an array containing those indices; otherwise, it returns null.
