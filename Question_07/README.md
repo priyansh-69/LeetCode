@@ -1,3 +1,5 @@
+//Inverse Integer
+
 
 This code defines a method reverse within a class Solution, which is intended to reverse an integer. Here's an intuition and approach breakdown:
 
