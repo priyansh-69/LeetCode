@@ -19,7 +19,6 @@ class Solution {
             array[ind].append(s.charAt(i++));
         }
     }
-
     StringBuffer ans = new StringBuffer();
     for(StringBuffer curr : array) ans.append(curr);
 
